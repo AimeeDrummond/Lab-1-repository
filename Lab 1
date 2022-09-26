@@ -1,0 +1,17 @@
+#Executive summary
+A)This lab sets to explain simple IT concepts such as the components of information systems, the difference between client side and server side, Cloud storage and how github can neatly tie all these concepts together in a pratical way. 
+
+
+#Information system components
+B) Leading with the example of using every day information systems, we will be using a bank as our example to help identify all of the pieces to an information system.
+The hardware of this system would be the teller machine that is used to transfer the funds. The software would be the tellers code using the input from the user. The data is all the information it stores ( The users account information, how much money it should contain digitally ETC..). The people are the various account holders that use these tellers and the process is the account holder walking up to the teller, inputing their information into the software and reciving their desired results. Whether that be making a deposit of money or taking funds out of their accounts. 
+
+#Client-Server
+C)When dealing with code, you're almost always certain to be dealing with Client side and Server side things. Client side means that you the client are seeing whatever action is taking place. While server side means that the action is taking place elsewhere. In an example we can say that you are attemping to do some online banking and need to log in to your account. We consider this action client side as you the client are logging in. However to access that information you must be involved in some Server side action as the servers hold all the actual information being transfered to clientside. Think of it in terms of wifi and social media. If you want to use some social media platform, you first need a connection. Say you boot up something like instagram and want to look at someone else's page. You booting up the app is client side. However, you can't see that persons page because you aren't connected to the internet. That is a server side function that you cannot access without that link. In terms of Github, on the client side we set up our repositories and Github keeps that information on the site to share. Github desktop changes this formla slightly by allowing the clientside more access to typical server-side functions.
+
+#Cloud computing
+D) Cloud computing is any IT service that you do not physically store on your side or with a physical server. Think of anything apple. They offer the cloud to any and all apple users to store things like photos and videos. Github is considered cloud computing as they store all their information on the site rather than using physical servers to harbour all their data.
+
+#conclusion
+To summarize, Github is one of our prime examples for how information systems work. It has all the components and uses them in a way we can understand. Although this does not just apply to github but to any everyday technologies. This is what I have gained knowledge wise from this reasearch and understand that the more I learn, the more I understand how little I know.
+
